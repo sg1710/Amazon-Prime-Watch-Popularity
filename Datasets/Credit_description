@@ -1,2 +1,9 @@
-This file contains metadata about directors and actors associated with each title on Amazon Prime. It includes the title’s ID (for merging), names of directors, and top cast members. This data was merged with titles.csv to enrich the analysis, providing broader context for each title. While this particular project focused on genre and release year, the credits file is valuable for potential future extensions such as analyzing director influence on ratings or actor-based content trends. It contains semi-structured lists which were cleaned and reformatted before merging. Although not directly used in modeling for IMDb score prediction, it played an important role in data enrichment and completeness. Users who wish to perform NLP or sentiment analysis on cast and crew data can use this file as a starting point. Including this file in the repository ensures completeness and allows the project to scale to more complex analyses in the future.
+This file contains metadata about directors and actors associated with each title on Amazon Prime. 
+It includes the title’s ID (for merging), names of directors, and top cast members. 
+This data was merged with titles.csv to enrich the analysis, providing broader context for each title. 
+While this particular project focused on genre and release year, the credits file is valuable for potential future extensions such as analyzing director influence on ratings or actor-based content trends. 
+It contains semi-structured lists which were cleaned and reformatted before merging. 
+Although not directly used in modeling for IMDb score prediction, it played an important role in data enrichment and completeness. 
+Users who wish to perform NLP or sentiment analysis on cast and crew data can use this file as a starting point. 
+Including this file in the repository ensures completeness and allows the project to scale to more complex analyses in the future.
 
